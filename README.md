@@ -1,6 +1,8 @@
 # pizzaTheme
 Free to use polish theme for pizza restaurant
 
+tech.: Wordpress
+
 
 The template enables:
 1. Automatic and replacement of contact details
